@@ -48,7 +48,7 @@ def happy_mood_responses():
         "The world is better with your positivity in it."
     ]
     response = random.choice(responses)
-    print(f"Thea: {response}")
+    print(f"Zen: {response}")
     speak(response)
 
 def sad_mood_responses():
@@ -70,7 +70,7 @@ def sad_mood_responses():
         "Sometimes, acknowledging your emotions is the first step towards healing."
     ]
     response = random.choice(responses)
-    print(f"Thea: {response}")
+    print(f"Zen: {response}")
     speak(response)
 
 def angry_mood_responses():
@@ -91,7 +91,7 @@ def angry_mood_responses():
         "I appreciate your honesty about your emotions. Let's address them together."
     ]
     response = random.choice(responses)
-    print(f"Thea: {response}")
+    print(f"Zen: {response}")
     speak(response)
 
 
@@ -113,7 +113,7 @@ def depressed_mood_responses():
         "Taking care of your mental health is a courageous choice. Let's do it together."
     ]
     response = random.choice(responses)
-    print(f"Thea: {response}")
+    print(f"Zen: {response}")
     speak(response)
     
 def suicidal_mood_responses():
@@ -131,7 +131,7 @@ def suicidal_mood_responses():
         "If you're struggling, please don't face it alone. Reach out to someone who cares about you or contact a mental health helpline.",
         ]
         responses = random.choice(responses)
-        print(f"Thea: {responses}")
+        print(f"Zen: {responses}")
         speak(responses) 
     
 def general_responses():
@@ -158,5 +158,5 @@ def general_responses():
     ]
 
     response = random.choice(responses)
-    print(f"Thea: {response}")
+    print(f"Zen: {response}")
     speak(response)
