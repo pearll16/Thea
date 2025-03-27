@@ -1,6 +1,6 @@
 # Code of Conduct
 
-The success of Thea: AI Therapist relies on the collaborative efforts of its community. To ensure a positive and inclusive environment for all contributors, we have established this Code of Conduct. This code applies to all interactions within Thea's community, including but not limited to issues, pull requests, discussions, and events.
+The success of Zen: AI Therapist relies on the collaborative efforts of its community. To ensure a positive and inclusive environment for all contributors, we have established this Code of Conduct. This code applies to all interactions within Zen's community, including but not limited to issues, pull requests, discussions, and events.
 
 ## Our Pledge
 
