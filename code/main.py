@@ -14,11 +14,11 @@ wishme()
 
 # Ask for the user's name and start the therapy session and desclaimer that say this is Not a real therapist just a script 
 while True:
-    speak_and_print("Before we proceed, please note that Thea is an AI therapist designed to provide support and companionship. It is not a substitute for professional mental health care. If you are experiencing severe distress or have suicidal thoughts, please seek immediate help from a mental health professional or contact a helpline in your region.")
+    speak_and_print("Before we proceed, please note that Zen is an AI therapist designed to provide support and companionship. It is not a substitute for professional mental health care. If you are experiencing severe distress or have suicidal thoughts, please seek immediate help from a mental health professional or contact a helpline in your region.")
 
-    speak_and_print("The Thea development team emphasizes that while Thea aims to be supportive, it is not a licensed therapist. The AI is continually learning and evolving, and your feedback is valuable for its improvement. The Thea team does not take responsibility for any harm caused by the program; use it at your own risk.")
+    speak_and_print("The Zen development team emphasizes that while Zen aims to be supportive, it is not a licensed therapist. The AI is continually learning and evolving, and your feedback is valuable for its improvement. The Zen team does not take responsibility for any harm caused by the program; use it at your own risk.")
 
-    disclaimer = "If you understand that Thea is not a real therapist and you have read and understood the disclaimer, please type 'y' to confirm: "
+    disclaimer = "If you understand that Zen is not a real therapist and you have read and understood the disclaimer, please type 'y' to confirm: "
 
     
     speak_and_print(disclaimer)
@@ -34,7 +34,7 @@ speak_and_print("Now, please state your name for easy communication")
 name = input("Your Name: ")
 
 #the session has started after the introduction
-speak_and_print(f"I am Thea, your therapist for today, {name} remember that you can end the session whenever you what by saying `ok thank you for the session` to . Let's start. How are you feeling today?")
+speak_and_print(f"I am Zen, your therapist for today, {name} remember that you can end the session whenever you what by saying `ok thank you for the session` to . Let's start. How are you feeling today?")
 
 # Main program execution
 if __name__ == "__main__":
