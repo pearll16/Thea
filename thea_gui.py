@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import scrolledtext
-import thea  # Assuming Thea's chatbot logic is in the 'thea' module
+import Zen  # Assuming Zen's chatbot logic is in the 'Zen' module
 
 def send_message():
     user_message = entry.get()
@@ -10,13 +10,13 @@ def send_message():
     chat_box.insert(tk.END, "You: " + user_message + "\n", "user")
     entry.delete(0, tk.END)
     
-    # Get AI response from Thea
-    ai_response = thea.chat(user_message)  # Replace with actual function call
-    chat_box.insert(tk.END, "Thea: " + ai_response + "\n", "ai")
+    # Get AI response from Zen
+    ai_response = Zen.chat(user_message)  # Replace with actual function call
+    chat_box.insert(tk.END, "Zen: " + ai_response + "\n", "ai")
 
 # GUI Setup
 root = tk.Tk()
-root.title("Thea - AI Therapist")
+root.title("Zen - AI Therapist")
 root.geometry("500x600")
 
 chat_box = scrolledtext.ScrolledText(root, width=60, height=20, wrap=tk.WORD)
