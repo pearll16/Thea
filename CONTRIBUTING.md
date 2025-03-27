@@ -1,16 +1,16 @@
-# Contributing to Thea: AI Therapist
+# Contributing to Zen: AI Therapist
 
-Thank you for considering contributing to Thea! Your involvement is essential in enhancing the capabilities of this AI therapist and making a positive impact on users seeking emotional well-being.
+Thank you for considering contributing to Zen! Your involvement is essential in enhancing the capabilities of this AI therapist and making a positive impact on users seeking emotional well-being.
 
 ## How Can You Contribute?
 
 ### Reporting Issues
 
-If you encounter any issues or have suggestions for improvements, please [open an issue](https://github.com/shviam-2018/Thea/issues). When reporting issues, include a detailed description of the problem, steps to reproduce it, and any relevant information about your environment.
+If you encounter any issues or have suggestions for improvements, please [open an issue](https://github.com/shviam-2018/Zen/issues). When reporting issues, include a detailed description of the problem, steps to reproduce it, and any relevant information about your environment.
 
 ### Feature Requests
 
-If you have ideas for new features or enhancements, feel free to submit a feature request through the [issue tracker](https://github.com/shviam-2018/Thea/issues). Describe the proposed feature, its use case, and any additional context that might be helpful.
+If you have ideas for new features or enhancements, feel free to submit a feature request through the [issue tracker](https://github.com/shviam-2018/Zen/issues). Describe the proposed feature, its use case, and any additional context that might be helpful.
 
 ### Code Contributions
 
@@ -27,7 +27,7 @@ If you are contributing a new feature, please include relevant tests to ensure t
 
 ## Getting Started
 
-To set up a development environment for Thea, follow the instructions in the [README.md](README.md) file. This includes cloning the repository, installing dependencies, and running the application.
+To set up a development environment for Zen, follow the instructions in the [README.md](README.md) file. This includes cloning the repository, installing dependencies, and running the application.
 
 ## Code of Conduct
 
@@ -35,10 +35,10 @@ Please note that this project follows the [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## License
 
-By contributing to Thea, you agree that your contributions will be licensed under the [MIT License](LICENSE). This ensures that the project remains open and accessible to others.
+By contributing to Zen, you agree that your contributions will be licensed under the [MIT License](LICENSE). This ensures that the project remains open and accessible to others.
 
-We appreciate your contributions and look forward to collaborating with you on making Thea an exceptional AI therapist!
+We appreciate your contributions and look forward to collaborating with you on making Zen an exceptional AI therapist!
 
 ---
 
-**Thank you for being a part of Thea's journey towards empathy and support!**
+**Thank you for being a part of Zen's journey towards empathy and support!**
